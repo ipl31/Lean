@@ -160,6 +160,12 @@
     <Compile Include="AltData\TradingEconomicsAlgorithm.cs" />
     <Compile Include="AltData\TiingoNewsAlgorithm.cs" />
     <Compile Include="BasicTemplateConstituentUniverseAlgorithm.cs" />
+    <Compile Include="Caruso\SmallCapGFCAlphaModel.cs" />
+    <Compile Include="Caruso\SmallCapGFCUniverseSelectionModel.cs" />
+    <Compile Include="Caruso\SmallCapGFC.cs" />
+    <Compile Include="Caruso\ShareHolderYieldUniverseSelectionModel.cs" />
+    <Compile Include="Caruso\LongOnlyAlphaModel.cs" />
+    <Compile Include="Caruso\ShareHolderYieldAlog.cs" />
     <Compile Include="DefaultResolutionRegressionAlgorithm.cs" />
     <Compile Include="BasicPythonIntegrationTemplateAlgorithm.cs" />
     <Compile Include="BasicSetAccountCurrencyAlgorithm.cs" />
